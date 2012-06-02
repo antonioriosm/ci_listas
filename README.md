@@ -10,3 +10,5 @@ La carpeta material contiene:
 - ubigeo.sql -> base de datos y tablas de ubicaciones geográficas
 - esquema de la base de datos para MySQL WorkBench
 - imagen de mvc 
+
+Puedes ver más información del video en http://www.antoniorios.net/blog/?p=323
